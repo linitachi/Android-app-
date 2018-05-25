@@ -33,14 +33,14 @@
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="129dp"
+        android:layout_width="127dp"
         android:layout_height="100dp"
         android:layout_marginEnd="140dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="打"
         android:clickable="true"
         android:onClick="hit1"
+        android:text="打"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.992"
@@ -146,7 +146,7 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.499" />
+        app:layout_constraintVertical_bias="0.53" />
 
     <TextView
         android:id="@+id/endtime"
